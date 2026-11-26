@@ -1,0 +1,212 @@
+{
+  "brand": {
+    "name": "HD Decor",
+    "domain": "hddecor.io.vn",
+    "tagline": "Nghệ Thuật Kiến Tạo Không Gian Sống",
+    "heroTitle": "Tinh Hoa Nội Thất Tối Giản & Đương Đại",
+    "heroSubtitle": "Chế tác tinh xảo từ vật liệu tự nhiên, mang đến sự ấm cúng, thanh lịch và dấu ấn cá nhân cho ngôi nhà của bạn.",
+    "heroImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=85",
+    "aboutTitle": "Triết Lý Thiết Kế Của HD Decor",
+    "aboutDescription": "Chúng tôi tin rằng một không gian đẹp không nằm ở sự phô trương mà ở tỷ lệ hài hòa, ánh sáng tinh tế và chất cảm chân thực của từng món đồ trang trí.",
+    "hotline": "0901234567",
+    "hotlineDisplay": "0901 234 567",
+    "zalo": "0901234567",
+    "email": "lienhe@hddecor.io.vn",
+    "address": "128 Đường Số 7, Khu Đô Thị An Phú, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "workingHours": "08:30 – 20:30 (Thứ 2 – Chủ Nhật)",
+    "copyright": "© 2026 HD Decor (hddecor.io.vn). All rights reserved."
+  },
+  "features": [
+    {
+      "icon": "✦",
+      "title": "Vật Liệu Tuyển Chọn",
+      "description": "Gỗ sồi tự nhiên, đá cẩm thạch, gốm thủ công và đồng thau nguyên khối bền bỉ theo thời gian."
+    },
+    {
+      "icon": "◈",
+      "title": "Thiết Kế Độc Bản",
+      "description": "Các bộ sưu tập được tuyển chọn và hoàn thiện giới hạn, giữ trọn nét tối giản sang trọng."
+    },
+    {
+      "icon": "❖",
+      "title": "Tư Vấn Phối Cảnh 1:1",
+      "description": "Đội ngũ stylist nội thất hỗ trợ chọn sản phẩm phù hợp màu sơn, ánh sáng và diện tích thực tế."
+    },
+    {
+      "icon": "✧",
+      "title": "Giao Lắp Tận Nơi",
+      "description": "Đóng gói chống sốc tiêu chuẩn, hỗ trợ lắp đặt hoàn thiện và bảo hành 24 tháng."
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "Tất cả sản phẩm" },
+    { "id": "living-room", "name": "Nội thất phòng khách" },
+    { "id": "lighting", "name": "Đèn trang trí" },
+    { "id": "wall-art", "name": "Tranh & Gương nghệ thuật" },
+    { "id": "ceramic", "name": "Gốm & Phụ kiện Decor" }
+  ],
+  "products": [
+    {
+      "id": "HD-001",
+      "name": "Ghế Armchair Bọc Vải Bouclé Oslo",
+      "category": "living-room",
+      "categoryName": "Nội thất phòng khách",
+      "price": 6850000,
+      "originalPrice": 7900000,
+      "badge": "Bán chạy",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "78 x 82 x 74 cm",
+      "material": "Khung gỗ tần bì tự nhiên, vải Bouclé nhập khẩu",
+      "color": "Kem sữa (Ivory)",
+      "stock": "Còn hàng",
+      "description": "Thiết kế bo cong mềm mại theo phong cách Bắc Âu kết hợp chất vải Bouclé êm ái, tạo điểm nhấn thư giãn sang trọng cho góc đọc sách hoặc phòng khách."
+    },
+    {
+      "id": "HD-002",
+      "name": "Đèn Thả Trần Pha Lê & Đồng Thau Aura",
+      "category": "lighting",
+      "categoryName": "Đèn trang trí",
+      "price": 4200000,
+      "originalPrice": 4800000,
+      "badge": "Mới",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "Đường kính 45 cm, dây thả tùy chỉnh 120 cm",
+      "material": "Đồng thau phay xước, chao thủy tinh mờ",
+      "color": "Vàng đồng / Trắng sữa",
+      "stock": "Còn hàng",
+      "description": "Ánh sáng vàng ấm 3000K tán xạ đều qua lớp thủy tinh mờ thủ công, tôn lên chiều sâu cho khu vực bàn ăn và đảo bếp hiện đại."
+    },
+    {
+      "id": "HD-003",
+      "name": "Bàn Trà Đá Travertine Nguyên Khối Zen",
+      "category": "living-room",
+      "categoryName": "Nội thất phòng khách",
+      "price": 11500000,
+      "originalPrice": null,
+      "badge": "Cao cấp",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "110 x 65 x 36 cm",
+      "material": "Đá tự nhiên Travertine phủ chống thấm",
+      "color": "Be cát tự nhiên",
+      "stock": "Đặt trước 5 ngày",
+      "description": "Vân đá tự nhiên độc bản kết hợp đường nét tối giản Wabi-Sabi, dễ dàng kết hợp cùng sofa nỉ hoặc sofa da cao cấp."
+    },
+    {
+      "id": "HD-004",
+      "name": "Gương Toàn Thân Khung Gỗ Óc Chó Lượn Sóng",
+      "category": "wall-art",
+      "categoryName": "Tranh & Gương nghệ thuật",
+      "price": 3450000,
+      "originalPrice": 3950000,
+      "badge": "Ưu đãi",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "65 x 170 cm",
+      "material": "Gương Bỉ AGC tráng bạc 5mm, khung gỗ óc chó",
+      "color": "Nâu trầm",
+      "stock": "Còn hàng",
+      "description": "Phản chiếu hình ảnh sắc nét, không méo hình, giúp mở rộng thị giác và tăng cường ánh sáng tự nhiên cho phòng ngủ hoặc sảnh vào."
+    },
+    {
+      "id": "HD-005",
+      "name": "Bộ 3 Bình Gốm Sần Thủ Công Minimal",
+      "category": "ceramic",
+      "categoryName": "Gốm & Phụ kiện Decor",
+      "price": 1250000,
+      "originalPrice": 1500000,
+      "badge": "Bán chạy",
+      "image": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "Cao 18 cm / 24 cm / 30 cm",
+      "material": "Gốm nung nhiệt cao tráng men cát nhám",
+      "color": "Trắng ngà / Xám đá",
+      "stock": "Còn hàng",
+      "description": "Bề mặt men nhám tự nhiên tinh tế, thích hợp cắm hoa khô, cành ô liu hoặc bày trí độc lập trên kệ tivi và bàn console."
+    },
+    {
+      "id": "HD-006",
+      "name": "Đèn Sàn Đứng Chụp Vải Linen Nordic",
+      "category": "lighting",
+      "categoryName": "Đèn trang trí",
+      "price": 2890000,
+      "originalPrice": null,
+      "badge": "",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "Cao 158 cm, đường kính chụp 38 cm",
+      "material": "Thân thép sơn tĩnh điện, chụp vải Linen tự nhiên",
+      "color": "Đen mờ / Kem Linen",
+      "stock": "Còn hàng",
+      "description": "Kiểu dáng thanh mảnh tiết kiệm diện tích, công tắc chân tiện lợi, mang lại nguồn sáng dịu nhẹ cho buổi tối thư giãn."
+    },
+    {
+      "id": "HD-007",
+      "name": "Tranh Sơn Dầu Trừu Tượng Đắp Nổi Horizon",
+      "category": "wall-art",
+      "categoryName": "Tranh & Gương nghệ thuật",
+      "price": 2650000,
+      "originalPrice": 3100000,
+      "badge": "Độc bản",
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "80 x 120 cm",
+      "material": "Vẽ tay chất liệu Acrylic đắp nổi trên toan bố, khung hợp kim",
+      "color": "Trung tính (Be, Nâu đất, Trắng)",
+      "stock": "Còn hàng",
+      "description": "Hiệu ứng vân nổi 3D bắt sáng tự nhiên theo từng góc nhìn, hoàn thiện sắc nét cho mảng tường lớn sau ghế sofa."
+    },
+    {
+      "id": "HD-008",
+      "name": "Khay Đá Marble Kèm Nến Thơm Gỗ Tuyết Tùng",
+      "category": "ceramic",
+      "categoryName": "Gốm & Phụ kiện Decor",
+      "price": 890000,
+      "originalPrice": null,
+      "badge": "Quà tặng",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80",
+      "dimensions": "Khay 30 x 18 cm, hũ nến 220g",
+      "material": "Đá Marble trắng vân mây, sáp đậu nành hữu cơ",
+      "color": "Trắng vân xám",
+      "stock": "Còn hàng",
+      "description": "Bộ phụ kiện hoàn hảo cho bàn trà hoặc làm quà tặng tân gia, hương gỗ tuyết tùng pha hổ phách dịu nhẹ lưu hương đến 45 giờ."
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Gói Styling Điểm Nhấn",
+      "price": "15.000.000đ",
+      "unit": "/ phòng",
+      "description": "Làm mới không gian phòng khách hoặc phòng ngủ bằng phụ kiện decor, tranh, đèn và thảm.",
+      "featured": false,
+      "items": [
+        "Khảo sát & tư vấn bảng màu (Moodboard)",
+        "Tuyển chọn 8 – 12 món decor đồng bộ",
+        "Hỗ trợ vận chuyển & sắp đặt hoàn thiện",
+        "Đổi trả linh hoạt trong 7 ngày"
+      ]
+    },
+    {
+      "name": "Gói Hoàn Thiện Căn Hộ",
+      "price": "45.000.000đ",
+      "unit": "/ căn 2PN",
+      "description": "Giải pháp đồng bộ toàn bộ đồ rời, hệ đèn trang trí và phụ kiện nghệ thuật chuẩn phong cách tối giản.",
+      "featured": true,
+      "items": [
+        "Thiết kế phối cảnh 3D chi tiết từng khu vực",
+        "Trọn bộ nội thất rời & đèn trang trí cao cấp",
+        "Chiết khấu 15% cho toàn bộ sản phẩm HD Decor",
+        "Thi công lắp đặt & vệ sinh bàn giao trọn gói",
+        "Bảo hành sản phẩm lên đến 24 tháng"
+      ]
+    },
+    {
+      "name": "Gói Thiết Kế Độc Bản",
+      "price": "Liên hệ",
+      "unit": "Biệt thự / Penthouse",
+      "description": "May đo riêng từng chi tiết nội thất, chế tác vật liệu nhập khẩu theo dấu ấn gia chủ.",
+      "featured": false,
+      "items": [
+        "Kiến trúc sư trưởng trực tiếp đồng hành",
+        "Đặt đóng & nhập khẩu sản phẩm độc bản",
+        "Giám sát thi công & hoàn thiện ánh sáng",
+        "Bảo trì định kỳ miễn phí trong 3 năm"
+      ]
+    }
+  ]
+}

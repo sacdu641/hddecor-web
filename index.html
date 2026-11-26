@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HD Decor | Nghệ Thuật Trang Trí Nội Thất Tối Giản & Sang Trọng</title>
+  <meta name="description" content="HD Decor (hddecor.io.vn) - Chuyên cung cấp sản phẩm trang trí nội thất, đèn nghệ thuật, tranh gương và giải pháp decor không gian sống hiện đại.">
+  
+  <!-- Google Fonts hỗ trợ tiếng Việt đầy đủ -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <!-- Header & Điều hướng -->
+  <header class="site-header" id="site-header">
+    <div class="container header-inner">
+      <a href="#top" class="brand-logo" id="header-logo">HD DECOR</a>
+      
+      <nav class="main-nav" id="main-nav" aria-label="Điều hướng chính">
+        <a href="#about" class="nav-link">Giới thiệu</a>
+        <a href="#products" class="nav-link">Sản phẩm</a>
+        <a href="#pricing" class="nav-link">Bảng giá</a>
+        <a href="#contact" class="nav-link">Liên hệ</a>
+      </nav>
+
+      <div class="header-actions">
+        <a href="#" class="btn btn-outline btn-sm" id="header-zalo-btn" target="_blank" rel="noopener">Tư vấn Zalo</a>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Mở menu" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero Banner -->
+    <section class="hero" id="hero-section">
+      <div class="hero-overlay"></div>
+      <div class="container hero-content">
+        <p class="hero-tagline" id="hero-tagline"></p>
+        <h1 class="hero-title" id="hero-title"></h1>
+        <p class="hero-subtitle" id="hero-subtitle"></p>
+        <div class="hero-buttons">
+          <a href="#products" class="btn btn-primary">Khám phá bộ sưu tập</a>
+          <a href="#" class="btn btn-light-outline" id="hero-zalo-btn" target="_blank" rel="noopener">Nhận tư vấn miễn phí</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Giá trị cốt lõi / Giới thiệu -->
+    <section class="section about-section" id="about">
+      <div class="container">
+        <div class="section-header center">
+          <span class="section-eyebrow">Về chúng tôi</span>
+          <h2 class="section-title" id="about-title"></h2>
+          <p class="section-desc" id="about-desc"></p>
+        </div>
+        <div class="features-grid" id="features-grid">
+          <!-- Render từ data.json -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Trưng bày sản phẩm -->
+    <section class="section products-section" id="products">
+      <div class="container">
+        <div class="section-header center">
+          <span class="section-eyebrow">Bộ sưu tập tuyển chọn</span>
+          <h2 class="section-title">Sản Phẩm Trang Trí Nội Thất</h2>
+          <p class="section-desc">Chọn lọc theo từng không gian và chất liệu. Nhấn vào sản phẩm để xem thông số chi tiết và đặt hàng nhanh.</p>
+        </div>
+
+        <!-- Thanh lọc danh mục -->
+        <div class="category-filters" id="category-filters" role="tablist" aria-label="Lọc danh mục sản phẩm">
+          <!-- Render từ data.json -->
+        </div>
+
+        <!-- Lưới sản phẩm -->
+        <div class="product-grid" id="product-grid">
+          <p class="loading-text">Đang tải danh sách sản phẩm...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Bảng giá gói dịch vụ Decor -->
+    <section class="section pricing-section" id="pricing">
+      <div class="container">
+        <div class="section-header center">
+          <span class="section-eyebrow">Giải pháp trọn gói</span>
+          <h2 class="section-title">Bảng Giá Dịch Vụ Decor</h2>
+          <p class="section-desc">Minh bạch chi phí, tối ưu ngân sách và đảm bảo tính thẩm mỹ đồng bộ cho từng không gian.</p>
+        </div>
+        <div class="pricing-grid" id="pricing-grid">
+          <!-- Render từ data.json -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Liên hệ & Showroom -->
+    <section class="section contact-section" id="contact">
+      <div class="container">
+        <div class="contact-card">
+          <div class="contact-info">
+            <span class="section-eyebrow">Showroom & Tư vấn</span>
+            <h2 class="section-title">Kết Nối Với HD Decor</h2>
+            <p class="section-desc">Ghé thăm showroom để trải nghiệm trực tiếp chất liệu hoặc nhắn tin Zalo để nhận ảnh thực tế và báo giá trong 5 phút.</p>
+            
+            <ul class="contact-list" id="contact-list">
+              <!-- Render từ data.json -->
+            </ul>
+          </div>
+          <div class="contact-cta-box">
+            <h3>Cần tư vấn phối đồ cho không gian của bạn?</h3>
+            <p>Gửi ngay hình ảnh căn phòng qua Zalo, stylist của chúng tôi sẽ đề xuất phương án decor phù hợp hoàn toàn miễn phí.</p>
+            <div class="cta-stack">
+              <a href="#" class="btn btn-primary btn-full" id="contact-zalo-btn" target="_blank" rel="noopener">Chat Zalo Tư Vấn Ngay</a>
+              <a href="#" class="btn btn-outline btn-full" id="contact-hotline-btn">Gọi Hotline Trực Tiếp</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="brand-logo" id="footer-logo">HD DECOR</span>
+        <p id="footer-tagline"></p>
+      </div>
+      <p class="footer-copy" id="footer-copyright"></p>
+    </div>
+  </footer>
+
+  <!-- Nút liên hệ nổi góc phải -->
+  <div class="floating-actions">
+    <a href="#" class="float-btn float-zalo" id="float-zalo-btn" target="_blank" rel="noopener" aria-label="Chat Zalo">
+      <span>Zalo</span>
+    </a>
+    <a href="#" class="float-btn float-call" id="float-call-btn" aria-label="Gọi Hotline">
+      <span>Gọi</span>
+    </a>
+  </div>
+
+  <!-- Modal xem chi tiết sản phẩm -->
+  <div class="modal-backdrop" id="product-modal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+      <button class="modal-close" id="modal-close" aria-label="Đóng cửa sổ">&times;</button>
+      <div class="modal-body" id="modal-body">
+        <!-- Nội dung sản phẩm render động -->
+      </div>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
